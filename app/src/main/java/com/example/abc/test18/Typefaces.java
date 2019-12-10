@@ -5,7 +5,7 @@ import android.graphics.Typeface;
 import android.util.Log;
 
 import java.util.Hashtable;
-
+//用来调字体的一个类
 public class Typefaces {
     private static final String TAG = "Typefaces";
     private static final Hashtable<String, Typeface> cache = new Hashtable<String, Typeface>();
